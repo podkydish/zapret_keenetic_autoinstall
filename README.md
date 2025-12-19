@@ -1,0 +1,1 @@
+# zapret_keenetic_autoinstall
